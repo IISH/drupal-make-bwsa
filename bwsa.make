@@ -16,7 +16,7 @@ projects[date][subdir] = "contrib"
 projects[date][version] = "2.9"
 
 projects[field_collection][subdir] = "contrib"
-projects[field_collection][version] = "1.0-beta10"
+projects[field_collection][version] = "1.0-beta8"
 
 projects[google_analytics][subdir] = "contrib"
 projects[google_analytics][version] = "2.1"
