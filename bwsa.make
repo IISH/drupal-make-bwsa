@@ -21,6 +21,9 @@ projects[field_collection][version] = "1.0-beta8"
 projects[google_analytics][subdir] = "contrib"
 projects[google_analytics][version] = "2.1"
 
+projects[ldap][subdir] = "contrib"
+projects[ldap][version] = "2.0-beta8"
+
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.3"
 
