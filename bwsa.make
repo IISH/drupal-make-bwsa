@@ -215,6 +215,12 @@ projects[iisg][download][type] = "git"
 projects[iisg][download][url] = "https://github.com/IISH/drupal-theme-socialhistory.git"
 projects[iisg][download][branch] = "master"
 
+projects[bwsa][version] = "1.0"
+projects[bwsa][type] = "theme"
+projects[bwsa][download][type] = "git"
+projects[bwsa][download][url] = "https://github.com/IISH/drupal-theme-bwsa.git"
+projects[bwsa][download][branch] = "master"
+
 
 ; Third party libraries.
 libraries[ckeditor][type] = libraries
