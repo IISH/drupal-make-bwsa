@@ -5,6 +5,39 @@ api = 2
 projects[drupal][version] = "7.41"
 
 
+projects[advanced_help][subdir] = "contrib"
+projects[advanced_help][version] = "1.3"
+
+projects[backup_migrate][subdir] = "contrib"
+projects[backup_migrate][version] = "3.1"
+
+projects[birthdays][subdir] = "contrib"
+projects[birthdays][version] = "1.x-dev"
+
+projects[captcha][subdir] = "contrib"
+projects[captcha][version] = "1.3"
+
+projects[colorbox][subdir] = "contrib"
+projects[colorbox][version] = "2.9"
+
+projects[context][subdir] = "contrib"
+projects[context][version] = "3.6"
+
+projects[ctools][subdir] = "contrib"
+projects[ctools][version] = "1.7"
+
+projects[custom_search][subdir] = "contrib"
+projects[custom_search][version] = "1.18"
+
+projects[date][subdir] = "contrib"
+projects[date][version] = "2.8"
+
+projects[delta][subdir] = "contrib"
+projects[delta][version] = "3.0-beta11"
+
+projects[email][subdir] = "contrib"
+projects[email][version] = "1.3"
+
 projects[entity][subdir] = "contrib"
 projects[entity][version] = "1.6"
 
