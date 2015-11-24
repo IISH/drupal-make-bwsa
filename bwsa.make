@@ -5,6 +5,12 @@ api = 2
 projects[drupal][version] = "7.41"
 
 
+projects[entity][subdir] = "contrib"
+projects[entity][version] = "1.6"
+
+projects[entity_path][subdir] = "contrib"
+projects[entity_path][version] = "1.x-d
+
 projects[feeds][subdir] = "contrib"
 projects[feeds][version] = "2.0-beta1"
 
