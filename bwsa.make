@@ -9,7 +9,7 @@ projects[entity][subdir] = "contrib"
 projects[entity][version] = "1.6"
 
 projects[entity_path][subdir] = "contrib"
-projects[entity_path][version] = "1.x-d
+projects[entity_path][version] = "1.x-dev
 
 projects[feeds][subdir] = "contrib"
 projects[feeds][version] = "2.0-beta1"
