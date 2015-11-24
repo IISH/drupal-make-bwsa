@@ -8,12 +8,6 @@ projects[drupal][version] = "7.41"
 projects[feeds][subdir] = "contrib"
 projects[feeds][version] = "2.0-beta1"
 
-projects[feeds_tamper][subdir] = "contrib"
-projects[feeds_tamper][version] = "1.1"
-
-projects[feeds_xls][subdir] = "contrib"
-projects[feeds_xls][version] = "1.2"
-
 projects[feeds_xpathparser][subdir] = "contrib"
 projects[feeds_xpathparser][version] = "1.1"
 
@@ -47,11 +41,11 @@ projects[imagemagick][version] = "1.0"
 projects[job_scheduler][subdir] = "contrib"
 projects[job_scheduler][version] = "2.0-alpha3"
 
-projects[jquery_update][subdir] = "contrib"
-projects[jquery_update][version] = "3.0-alpha2"
-
 projects[l10n_update][subdir] = "contrib"
 projects[l10n_update][version] = "2.0"
+
+projects[ldap][subdir] = "contrib"
+projects[ldap][version] = "2.0-beta8"
 
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.2"
@@ -64,10 +58,6 @@ projects[mailchimp][version] = "2.12"
 
 projects[media][subdir] = "contrib"
 projects[media][version] = "1.5"
-
-; Replaces colorbox_file
-projects[media_colorbox][subdir] = "contrib"
-projects[media_colorbox][version] = "1.0-rc4"
 
 projects[media_dailymotion][subdir] = "contrib"
 projects[media_dailymotion][version] = "1.1"
@@ -83,9 +73,6 @@ projects[menu_block][version] = "2.7"
 
 projects[menu_position][subdir] = "contrib"
 projects[menu_position][version] = "1.1"
-
-projects[metatag][subdir] = "contrib"
-projects[metatag][version] = "1.6"
 
 projects[nice_menus][subdir] = "contrib"
 projects[nice_menus][version] = "2.5"
@@ -114,7 +101,6 @@ projects[service_links][version] = "2.3"
 projects[strongarm][subdir] = "contrib"
 projects[strongarm][version] = "2.0"
 
-; niet gebruikt
 projects[styles][subdir] = "contrib"
 projects[styles][version] = "2.0-alpha8"
 
@@ -142,8 +128,6 @@ projects[views][version] = "3.11"
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.3"
 
-projects[views_navigation][subdir] = "contrib"
-
 projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow][version] = "3.1"
 
@@ -153,27 +137,15 @@ projects[webform][version] = "3.24"
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.x-dev"
 
-projects[xmlsitemap][subdir] = "contrib"
-projects[xmlsitemap][version] = "2.2"
-
 
 ; Custom modules
 
-; https://www.drupal.org/sandbox/jacintocapote/2274777
 projects[iish_absolute_urls][version] = "1.0"
 projects[iish_absolute_urls][type] = "module"
 projects[iish_absolute_urls][download][type] = "git"
 projects[iish_absolute_urls][download][url] = "https://github.com/IISH/drupal-module-iish-absolute-urls.git"
 projects[iish_absolute_urls][download][branch] = "master"
 projects[iish_absolute_urls][subdir] = "custom"
-
-; https://www.drupal.org/sandbox/jacintocapote/2274777
-projects[media_edit_fields][type] = "module"
-projects[media_edit_fields][version] = "1.0"
-projects[media_edit_fields][download][type] = "git"
-projects[media_edit_fields][download][url] = "http://git.drupal.org/sandbox/jacintocapote/2274777.git"
-projects[media_edit_fields][download][branch] = "master"
-projects[media_edit_fields][subdir] = "contrib"
 
 projects[iish_blocks][version] = "1.0"
 projects[iish_blocks][type] = "module"
@@ -195,13 +167,6 @@ projects[iish_language][download][type] = "git"
 projects[iish_language][download][url] = "https://github.com/IISH/drupal-module-language.git"
 projects[iish_language][download][branch] = "master"
 projects[iish_language][subdir] = "custom"
-
-projects[iish_donations][version] = "1.0"
-projects[iish_donations][type] = "module"
-projects[iish_donations][download][type] = "git"
-projects[iish_donations][download][url] = "https://github.com/IISH/drupal-module-donations.git"
-projects[iish_donations][download][branch] = "test"
-projects[iish_donations][subdir] = "custom"
 
 
 ; Drupal Themes
