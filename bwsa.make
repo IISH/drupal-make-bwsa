@@ -66,7 +66,7 @@ projects[forward][subdir] = "contrib"
 projects[forward][version] = "1.4"
 
 projects[google_analytics][subdir] = "contrib"
-projects[google_analytics][version] = "1.4"
+projects[google_analytics][version] = "2.1"
 
 projects[i18n][subdir] = "contrib"
 projects[i18n][version] = "1.13"
@@ -120,10 +120,10 @@ projects[nodequeue][subdir] = "contrib"
 projects[nodequeue][version] = "2.0"
 
 projects[pathauto][subdir] = "contrib"
-projects[pathauto][version] = "1.2"
+projects[pathauto][version] = "1.3"
 
 projects[print][subdir] = "contrib"
-projects[print][version] = "1.3"
+projects[print][version] = "2.0"
 
 projects[profile2][subdir] = "contrib"
 projects[profile2][version] = "1.3"
@@ -162,7 +162,7 @@ projects[variable][subdir] = "contrib"
 projects[variable][version] = "2.5"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.11"
+projects[views][version] = "3.13"
 
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.3"
@@ -174,7 +174,7 @@ projects[webform][subdir] = "contrib"
 projects[webform][version] = "3.24"
 
 projects[wysiwyg][subdir] = "contrib"
-projects[wysiwyg][version] = "2.x-dev"
+projects[wysiwyg][version] = "2.2"
 
 
 ; Custom modules
