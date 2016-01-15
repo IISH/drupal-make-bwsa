@@ -137,6 +137,9 @@ projects[references][version] = "2.1"
 projects[service_links][subdir] = "contrib"
 projects[service_links][version] = "2.3"
 
+projects[smtp][subdir] = "contrib"
+projects[smtp][version] = "1.3"
+
 projects[strongarm][subdir] = "contrib"
 projects[strongarm][version] = "2.0"
 
