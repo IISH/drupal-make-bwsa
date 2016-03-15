@@ -54,7 +54,7 @@ projects[field_collection][subdir] = "contrib"
 projects[field_collection][version] = "1.0-beta8"
 
 projects[field_group][subdir] = "contrib"
-projects[field_group][version] = "1.4"
+projects[field_group][version] = "1.5"
 
 projects[field_slideshow][subdir] = "contrib"
 projects[field_slideshow][version] = "1.82"
