@@ -2,7 +2,7 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.41"
+projects[drupal][version] = "7.43"
 
 
 projects[advanced_help][subdir] = "contrib"
@@ -18,13 +18,13 @@ projects[captcha][subdir] = "contrib"
 projects[captcha][version] = "1.3"
 
 projects[colorbox][subdir] = "contrib"
-projects[colorbox][version] = "2.9"
+projects[colorbox][version] = "2.10"
 
 projects[context][subdir] = "contrib"
 projects[context][version] = "3.6"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.7"
+projects[ctools][version] = "1.8"
 
 projects[custom_search][subdir] = "contrib"
 projects[custom_search][version] = "1.18"
@@ -54,7 +54,7 @@ projects[field_collection][subdir] = "contrib"
 projects[field_collection][version] = "1.0-beta8"
 
 projects[field_group][subdir] = "contrib"
-projects[field_group][version] = "1.4"
+projects[field_group][version] = "1.5"
 
 projects[field_slideshow][subdir] = "contrib"
 projects[field_slideshow][version] = "1.82"
