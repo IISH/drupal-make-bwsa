@@ -24,7 +24,7 @@ projects[context][subdir] = "contrib"
 projects[context][version] = "3.6"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.8"
+projects[ctools][version] = "1.9"
 
 projects[custom_search][subdir] = "contrib"
 projects[custom_search][version] = "1.18"
@@ -63,7 +63,7 @@ projects[follow][subdir] = "contrib"
 projects[follow][version] = "2.0-alpha1"
 
 projects[forward][subdir] = "contrib"
-projects[forward][version] = "1.4"
+projects[forward][version] = "2.1"
 
 projects[google_analytics][subdir] = "contrib"
 projects[google_analytics][version] = "2.1"
