@@ -44,6 +44,9 @@ projects[entity][version] = "1.7"
 projects[entity_path][subdir] = "contrib"
 projects[entity_path][version] = "1.x-dev"
 
+projects[features][subdir] = "contrib"
+projects[features][version] = "2.9"
+
 projects[feeds][subdir] = "contrib"
 projects[feeds][version] = "2.0-beta1"
 
