@@ -4,7 +4,6 @@ core = 7.x
 api = 2
 projects[drupal][version] = "7.43"
 
-
 projects[advanced_help][subdir] = "contrib"
 projects[advanced_help][version] = "1.3"
 
@@ -173,6 +172,9 @@ projects[views][version] = "3.13"
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.3"
 
+projects[views_data_export][subdir] = "contrib"
+projects[views_data_export][version] = "3.0-beta8"
+
 projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow][version] = "3.1"
 
@@ -181,7 +183,6 @@ projects[webform][version] = "3.24"
 
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
-
 
 ; Custom modules
 
@@ -213,10 +214,8 @@ projects[iish_language][download][url] = "https://github.com/IISH/drupal-module-
 projects[iish_language][download][branch] = "master"
 projects[iish_language][subdir] = "custom"
 
-
 ; Drupal Themes
 projects[omega][version] = "3.1"
-
 
 ; Custom themes
 projects[iisg][version] = "1.0"
@@ -230,7 +229,6 @@ projects[bwsa][type] = "theme"
 projects[bwsa][download][type] = "git"
 projects[bwsa][download][url] = "https://github.com/IISH/drupal-theme-bwsa.git"
 projects[bwsa][download][branch] = "master"
-
 
 ; Third party libraries.
 libraries[ckeditor][type] = libraries
