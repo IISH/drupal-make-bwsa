@@ -2,7 +2,7 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.43"
+projects[drupal][version] = "7.50"
 
 projects[advanced_help][subdir] = "contrib"
 projects[advanced_help][version] = "1.3"
@@ -17,13 +17,13 @@ projects[captcha][subdir] = "contrib"
 projects[captcha][version] = "1.3"
 
 projects[colorbox][subdir] = "contrib"
-projects[colorbox][version] = "2.10"
+projects[colorbox][version] = "2.12"
 
 projects[context][subdir] = "contrib"
 projects[context][version] = "3.6"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.9"
+projects[ctools][version] = "1.10"
 
 projects[custom_search][subdir] = "contrib"
 projects[custom_search][version] = "1.18"
@@ -44,7 +44,7 @@ projects[entity_path][subdir] = "contrib"
 projects[entity_path][version] = "1.x-dev"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "2.9"
+projects[features][version] = "2.10"
 
 projects[feeds][subdir] = "contrib"
 projects[feeds][version] = "2.0-beta1"
@@ -68,7 +68,7 @@ projects[forward][subdir] = "contrib"
 projects[forward][version] = "2.1"
 
 projects[google_analytics][subdir] = "contrib"
-projects[google_analytics][version] = "2.1"
+projects[google_analytics][version] = "2.3"
 
 projects[i18n][subdir] = "contrib"
 projects[i18n][version] = "1.13"
@@ -86,7 +86,7 @@ projects[l10n_update][subdir] = "contrib"
 projects[l10n_update][version] = "2.0"
 
 projects[ldap][subdir] = "contrib"
-projects[ldap][version] = "2.0-beta8"
+projects[ldap][version] = "2.0-beta11"
 
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.2"
@@ -167,7 +167,7 @@ projects[variable][subdir] = "contrib"
 projects[variable][version] = "2.5"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.13"
+projects[views][version] = "3.14"
 
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.3"
@@ -182,7 +182,7 @@ projects[webform][subdir] = "contrib"
 projects[webform][version] = "3.24"
 
 projects[wysiwyg][subdir] = "contrib"
-projects[wysiwyg][version] = "2.2"
+projects[wysiwyg][version] = "2.x-dev"
 
 ; Custom modules
 
