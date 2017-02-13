@@ -2,7 +2,7 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.50"
+projects[drupal][version] = "7.54"
 
 projects[advanced_help][subdir] = "contrib"
 projects[advanced_help][version] = "1.3"
@@ -23,7 +23,7 @@ projects[context][subdir] = "contrib"
 projects[context][version] = "3.6"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.10"
+projects[ctools][version] = "1.12"
 
 projects[custom_search][subdir] = "contrib"
 projects[custom_search][version] = "1.18"
@@ -173,13 +173,13 @@ projects[views_bulk_operations][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.3"
 
 projects[views_data_export][subdir] = "contrib"
-projects[views_data_export][version] = "3.0-beta8"
+projects[views_data_export][version] = "3.1"
 
 projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow][version] = "3.1"
 
 projects[webform][subdir] = "contrib"
-projects[webform][version] = "3.24"
+projects[webform][version] = "3.27"
 
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.x-dev"
@@ -189,28 +189,28 @@ projects[wysiwyg][version] = "2.x-dev"
 projects[iish_absolute_urls][version] = "1.0"
 projects[iish_absolute_urls][type] = "module"
 projects[iish_absolute_urls][download][type] = "git"
-projects[iish_absolute_urls][download][url] = "https://github.com/IISH/drupal-module-iish-absolute-urls.git"
+projects[iish_absolute_urls][download][url] = "git@github.com:IISH/drupal-module-iish-absolute-urls.git"
 projects[iish_absolute_urls][download][branch] = "master"
 projects[iish_absolute_urls][subdir] = "custom"
 
 projects[iish_blocks][version] = "1.0"
 projects[iish_blocks][type] = "module"
 projects[iish_blocks][download][type] = "git"
-projects[iish_blocks][download][url] = "https://github.com/IISH/drupal-module-blocks.git"
+projects[iish_blocks][download][url] = "git@github.com:IISH/drupal-module-blocks.git"
 projects[iish_blocks][download][branch] = "master"
 projects[iish_blocks][subdir] = "custom"
 
 projects[iish_images][version] = "1.0"
 projects[iish_images][type] = "module"
 projects[iish_images][download][type] = "git"
-projects[iish_images][download][url] = "https://github.com/IISH/drupal-module-images.git"
+projects[iish_images][download][url] = "git@github.com:IISH/drupal-module-images.git"
 projects[iish_images][download][branch] = "master"
 projects[iish_images][subdir] = "custom"
 
 projects[iish_language][version] = "1.0"
 projects[iish_language][type] = "module"
 projects[iish_language][download][type] = "git"
-projects[iish_language][download][url] = "https://github.com/IISH/drupal-module-language.git"
+projects[iish_language][download][url] = "git@github.com:IISH/drupal-module-language.git"
 projects[iish_language][download][branch] = "master"
 projects[iish_language][subdir] = "custom"
 
@@ -221,13 +221,13 @@ projects[omega][version] = "3.1"
 projects[iisg][version] = "1.0"
 projects[iisg][type] = "theme"
 projects[iisg][download][type] = "git"
-projects[iisg][download][url] = "https://github.com/IISH/drupal-theme-socialhistory.git"
+projects[iisg][download][url] = "git@github.com:IISH/drupal-theme-socialhistory.git"
 projects[iisg][download][branch] = "master"
 
 projects[bwsa][version] = "1.0"
 projects[bwsa][type] = "theme"
 projects[bwsa][download][type] = "git"
-projects[bwsa][download][url] = "https://github.com/IISH/drupal-theme-bwsa.git"
+projects[bwsa][download][url] = "git@github.com:IISH/drupal-theme-bwsa.git"
 projects[bwsa][download][branch] = "master"
 
 ; Third party libraries.
@@ -239,7 +239,7 @@ libraries[ckeditor][directory_name] = "ckeditor"
 
 libraries[colorbox][type] = libraries
 libraries[colorbox][download][type] = "git"
-libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
+libraries[colorbox][download][url] = "git@github.com:jackmoore/colorbox.git"
 libraries[colorbox][download][branch] = "1.x"
 libraries[colorbox][directory_name] = "colorbox"
 
