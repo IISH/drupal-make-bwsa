@@ -98,7 +98,7 @@ projects[mailchimp][subdir] = "contrib"
 projects[mailchimp][version] = "2.12"
 
 projects[media][subdir] = "contrib"
-projects[media][version] = "1.5"
+projects[media][version] = "2.0"
 
 projects[media_dailymotion][subdir] = "contrib"
 projects[media_dailymotion][version] = "1.1"
@@ -134,7 +134,7 @@ projects[realname][subdir] = "contrib"
 projects[realname][version] = "1.2"
 
 projects[references][subdir] = "contrib"
-projects[references][version] = "2.1"
+projects[references][version] = "2.2"
 
 projects[service_links][subdir] = "contrib"
 projects[service_links][version] = "2.3"
