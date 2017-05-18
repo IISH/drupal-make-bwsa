@@ -61,6 +61,9 @@ projects[field_group][version] = "1.5"
 projects[field_slideshow][subdir] = "contrib"
 projects[field_slideshow][version] = "1.82"
 
+projects[file_entity][subdir] = "contrib"
+projects[file_entity][version] = "2.0-beta3"
+
 projects[follow][subdir] = "contrib"
 projects[follow][version] = "2.0-alpha1"
 
