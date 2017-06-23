@@ -2,7 +2,7 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.54"
+projects[drupal][version] = "7.56"
 
 projects[advanced_help][subdir] = "contrib"
 projects[advanced_help][version] = "1.3"
@@ -86,7 +86,7 @@ projects[l10n_update][subdir] = "contrib"
 projects[l10n_update][version] = "2.0"
 
 projects[ldap][subdir] = "contrib"
-projects[ldap][version] = "2.0-beta12"
+projects[ldap][version] = "2.2"
 
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.2"
