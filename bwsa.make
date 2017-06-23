@@ -61,6 +61,10 @@ projects[field_group][version] = "1.5"
 projects[field_slideshow][subdir] = "contrib"
 projects[field_slideshow][version] = "1.82"
 
+; als media en file_entity in kombinatie worden gebruikt dan moeten ze dezelfde versie "NUMMERs" hebben
+projects[file_entity][subdir] = "contrib"
+projects[file_entity][version] = "2.1"
+
 projects[follow][subdir] = "contrib"
 projects[follow][version] = "2.0-alpha1"
 
@@ -97,9 +101,10 @@ projects[link][version] = "1.3"
 projects[mailchimp][subdir] = "contrib"
 projects[mailchimp][version] = "2.12"
 
-; media niet updaten naar versie 2 totdat uitgezocht is hoe we de nieuwe versie moeten instellen
+; als media en file_entity in kombinatie worden gebruikt dan moeten ze dezelfde versie "NUMMERs" hebben
 projects[media][subdir] = "contrib"
-projects[media][version] = "1.6"
+projects[media][version] = "2.1"
+;projects[media][version] = "1.6"
 
 projects[media_dailymotion][subdir] = "contrib"
 projects[media_dailymotion][version] = "1.1"
